@@ -25,5 +25,9 @@
     "posthtml-collect-styles": "0.0.1",
     "posthtml-minifier": "^0.1.0",
     "posthtml-postcss": "^0.2.4"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.730.0",
+    "mime": "^2.4.6"
   }
 }

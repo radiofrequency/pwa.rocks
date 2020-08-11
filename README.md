@@ -1,4 +1,4 @@
-# List of Progressive Web Apps [![Build status](https://travis-ci.org/pwarocks/pwa.rocks.svg)](https://travis-ci.org/pwarocks/pwa.rocks)
+# List of Progressive Web Apps [![Build status](https://travis-ci.org/pwarocks/pwa.rocks.svg)](https://travis-ci.org/pwarocks/pamp.rocks)
 
 What is a progressive web app? See the “[Progressive Web Apps](https://youtu.be/MyQ8mtR9WxI)” talk by [Alex Russell](https://github.com/slightlyoff) and [Andreas Bovens](https://github.com/andreasbovens).
 

@@ -1,6 +1,6 @@
 'use strict';
 
-const PREFIX = 'pwa.rocks';
+const PREFIX = 'pamp.rocks';
 const HASH = %HASH%; // Computed at build time.
 const OFFLINE_CACHE = `${PREFIX}-${HASH}`;
 

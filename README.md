@@ -1,3 +1,7 @@
+#Update Aug 12 2020
+
+It seems pwa.rocks is no more.  I have forked the code and hosted it @ https://pamp.rocks and will review and accept submissions of high quality progressive web apps. [Radio Frequency](https://github.com/andreasbovens)
+
 # List of Progressive Web Apps [![Build status](https://travis-ci.org/pwarocks/pwa.rocks.svg)](https://travis-ci.org/pwarocks/pamp.rocks)
 
 What is a progressive web app? See the “[Progressive Web Apps](https://youtu.be/MyQ8mtR9WxI)” talk by [Alex Russell](https://github.com/slightlyoff) and [Andreas Bovens](https://github.com/andreasbovens).

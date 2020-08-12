@@ -9,8 +9,7 @@ var mime = require('mime');
 // Create S3 service object
 s3 = new AWS.S3({apiVersion: '2006-03-01'});
 
-//accceskey AKIATFCVFYG3QCUGWIWI
-//secret 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
+
 // Create JSON for putBucketWebsite parameters
 /*var staticHostParams = {
   Bucket: '',
